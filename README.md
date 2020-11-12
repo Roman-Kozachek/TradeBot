@@ -1,7 +1,7 @@
 # TradeBot
 Development of a ForEx TradeBot.
   
-The goal of this project is to develop a trading bot for ForEx trading using modern Machine Learning techniques, such as Recurrent Neural Networks and Deep Q-learning Neural Networks. 
+The goal of this project is to develop a trading bot for ForEx market using modern Machine Learning techniques, such as Recurrent Neural Networks and Deep Q-learning Neural Networks. 
   
 My research is split into five parts: 
 1) Part 1 - Data exploration and preparation;
